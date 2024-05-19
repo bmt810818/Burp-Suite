@@ -17,3 +17,5 @@
 - Example: fill "trackingUrl"
 - Intruder -> Payload setting [Simple list]
 - Example: fill "javascript:alert(1)" + "stored XSS(1)" + "stored XSS(2)"
+
+# 4. Create Organizer
